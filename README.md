@@ -10,4 +10,3 @@ Platform: MAC
 
 ### Notes ###
 - this project properly tought me the practical aplications of getters and overloading
-- i struggled heavily with file maagement
