@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/main.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/money.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/money.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/money.cpp",
+  "output": "src/CMakeFiles/src.dir/money.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/stock.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/stock.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/stock.cpp",
+  "output": "src/CMakeFiles/src.dir/stock.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/portfolio.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/portfolio.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/portfolio.cpp",
+  "output": "src/CMakeFiles/src.dir/portfolio.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/driver.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/driver.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/driver.cpp",
+  "output": "src/CMakeFiles/src.dir/driver.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/strlib.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/strlib.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src/strlib.cpp",
+  "output": "src/CMakeFiles/src.dir/strlib.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o tests/CMakeFiles/tests.dir/Catch.cpp.o -c /Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/tests/Catch.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/pa01-dominicrosby/tests/Catch.cpp",
+  "output": "tests/CMakeFiles/tests.dir/Catch.cpp.o"
+}
+]
